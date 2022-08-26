@@ -53,7 +53,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 **Thanks to [Erich](https://t.me/ErichDaniken) and his [InFoTel](https://t.me/InFoTel_Group) for this Video**
 
 #### Deploy on Railway
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/B4jxsy?referralCode=V7J8KD)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/c50DKy?referralCode=_tU8A1)
 
 #### Deploy in your VPS
 ````bash
